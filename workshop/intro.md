@@ -9,7 +9,8 @@
 [![License](https://img.shields.io/github/license/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code)
 [![Contributors](https://img.shields.io/github/contributors/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code)
 [![Issues](https://img.shields.io/github/issues/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code/issues)
-[![PRs](https://img.shields.io/github/pulls/KamitaniLab/Clean_Reproducible_Code)](https://github.com/KamitaniLab/Clean_Reproducible_Code/pulls)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/KamitaniLab/Clean_Reproducible_Code)
+
 
 Hello everyone and welcome to the `Clean and Reproducible Code` workshop at the [Kamitani Lab](https://kamitani-lab.ist.i.kyoto-u.ac.jp/)!
 
@@ -18,13 +19,11 @@ Within these pages, we provide information on how to follow the workshop, as wel
 ````{margin}
 ```{warning}
 These pages are currently under construction and will be updated continuously.
-Please visit this page again in the next few weeks for further information.
+Please visit this page again for further information.
 ````
 
 ## The workshop
   
-You can checkout the respective sections:
-
 ::::{card-carousel} 2
 
 :::{card}
@@ -34,7 +33,7 @@ You can checkout the respective sections:
 :link: https://KamitaniLab.github.io/Clean_Reproducible_Code/overview.html
 **Overview**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/overview_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/overview_logo.png
 :height: 100
 ```
 
@@ -51,7 +50,7 @@ Explore this section {fas}`arrow-right`
 
 **Course setup**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/setup_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/setup_logo.png
 :height: 100
 ```
 
@@ -67,11 +66,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_formatting.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_formatting.html
 
 **Code formatting**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/code_formatting_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
 :height: 100
 ```
 
@@ -84,11 +83,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_testing.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_testing.html
 
 **Code testing**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/code_testing_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
 :height: 100
 ```
 
@@ -101,11 +100,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/CI_CD.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/CI_CD.html
 
 **Continuous Integration**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/CI_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
 :height: 100
 ```
 
