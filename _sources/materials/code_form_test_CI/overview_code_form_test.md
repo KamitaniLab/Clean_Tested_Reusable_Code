@@ -20,13 +20,13 @@ There is: `code formatting`!
 
 We will briefly explore and learn about the following topics:
 
-- [Guidelines for Code Styling](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_formatting.html#guidelines-for-code-styling)  
-- [Writing Human Readable Code](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_formatting.html#writing-human-readable-code)  
-- [Code Styling Tools](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_formatting.html#code-styling-tools)  
+- [Guidelines for Code Styling](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html#guidelines-for-code-styling)  
+- [Writing Human Readable Code](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html#writing-human-readable-code)  
+- [Code Styling Tools](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html#code-styling-tools)  
 
 #### Materials📓
 
-Please navigate to the respective section in the `ToC` on the left or [click here](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_formatting.html#)
+Please navigate to the respective section in the `ToC` on the left or [click here](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html#)
 
 ### Code testing
 
@@ -42,13 +42,13 @@ There is: `code testing`!
 
 We will briefly explore and learn about the following topics:
 
-- [Code testing - the basics](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_testing.html#code-testing-the-basics)  
-- [Testing frameworks](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_testing.html#testing-frameworks)  
-- [Code testing - different types of testing](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_testing.html#code-testing-different-types-of-tests)  
+- [Code testing - the basics](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html#code-testing-the-basics)  
+- [Testing frameworks](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html#testing-frameworks)  
+- [Code testing - different types of testing](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html#code-testing-different-types-of-tests)  
 
 #### Materials📓
 
-Please navigate to the respective section in the `ToC` on the left or [click here](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/code_testing.html#)
+Please navigate to the respective section in the `ToC` on the left or [click here](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html#)
 
 ### Continuous integration
 
@@ -62,10 +62,10 @@ But there is a solution: `continuous integration` (`CI`)!
 
 We will briefly explore and learn about the following topics:
 
-- [Continuous Integration basics](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/CI_CD.html#)  
-- [GitHub actions](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/CI_CD.html#github-actions)  
-- [Building workflows](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/CI_CD.html#building-workflows)  
+- [Continuous Integration basics](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html#)  
+- [GitHub actions](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html#github-actions)  
+- [Building workflows](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html#building-workflows)  
 
 #### Materials📓
 
-Please navigate to the respective section in the `ToC` on the left or [click here](https://peerherholz.github.io/Clean_Repro_Code_Neuromatch/materials/code_form_test_CI/CI_CD.html#)
+Please navigate to the respective section in the `ToC` on the left or [click here](https://KamitaniLab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html#)

@@ -29,13 +29,25 @@ You can find the main team below and get further information via clicking on the
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="margin: 10px; text-align: center;">
     <div style="line-height: 0;">
+      <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e53a0f35-bc0a-447f-a273-455393129a00/icon_face_squared/w=1920,quality=90,fit=scale-down" alt="Yoshihiro_pic" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    </div>
+    <h3 style="margin-top: 4px; margin-bottom: 5px; font-size: 18px;">Yoshihiro Nagano</h3>
+    <p style="font-size: 14px; margin-bottom: 2px; text-align: center;">
+      <a href="mailto:nagano@i.kyoto-u.ac.jp" style="font-size: 20px; margin: 0 10px;"><i class="fas fa-envelope"></i></a>
+      <a href="https://ganow.me/" style="font-size: 20px; margin: 0 10px;"><i class="fas fa-link"></i></a>
+      <a href="https://github.com/ganow" style="font-size: 20px; margin: 0 10px;"><i class="fab fa-github"></i></a>
+    </p>
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <div style="line-height: 0;">
       <img src="https://avatars.githubusercontent.com/u/20129524?v=4" alt="Peer_pic" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     </div>
     <h3 style="margin-top: 4px; margin-bottom: 5px; font-size: 18px;">Peer Herholz (he/him/his)</h3>
-    <p style="font-size: 14px; margin-bottom: 2px;">
-      <a href="mailto:herholz.peer@gmail.com" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-envelope"></i></a>
-      <a href="https://KamitaniLab.github.io/" style="font-size: 20px; margin-right: 10px;"><i class="fas fa-link"></i></a>
-      <a href="https://github.com/KamitaniLab" style="font-size: 20px;"><i class="fab fa-github"></i></a>
+    <p style="font-size: 14px; margin-bottom: 2px; text-align: center;">
+      <a href="mailto:herholz.peer@gmail.com" style="font-size: 20px; margin: 0 10px;"><i class="fas fa-envelope"></i></a>
+      <a href="https://peerherholz.github.io/" style="font-size: 20px; margin: 0 10px;"><i class="fas fa-link"></i></a>
+      <a href="https://github.com/peerherholz" style="font-size: 20px; margin: 0 10px;"><i class="fab fa-github"></i></a>
     </p>
   </div>
 </div>
@@ -58,10 +70,10 @@ Pleaes note that the details below refer to the first instance of this workshop.
 
 | Date | Time  | Topic |
 |:---:|:---:|:---:|
-| 2026/01/21 | 10 AM - 12 PM | [Code formatting](https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_formatting.html)  |
-| 2026/01/22 | 10 AM - 12 PM | [Code Testing I](https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_testing.html)  |
-| 2026/01/26 | 3  PM - 5  PM | [Code Testing II](https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_testing.html)  |
-| 2026/01/27 | 1:15 PM - 3:15 PM | [Continuous Integration](https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/CI_CD.html)  |
+| 2026/01/21 | 10 AM - 12 PM | [Code formatting](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html)  |
+| 2026/01/22 | 10 AM - 12 PM | [Code Testing I](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)  |
+| 2026/01/26 | 3  PM - 5  PM | [Code Testing II](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)  |
+| 2026/01/27 | 1:15 PM - 3:15 PM | [Continuous Integration](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html)  |
 
 ::::{card-carousel} 3
 
@@ -69,11 +81,11 @@ Pleaes note that the details below refer to the first instance of this workshop.
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_formatting.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_formatting.html
 
 **Code formatting**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/code_formatting_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_formatting_logo.png
 :height: 100
 ```
 
@@ -86,11 +98,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/code_testing.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/code_testing.html
 
 **Code testing**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/code_testing_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/code_testing_logo.png
 :height: 100
 ```
 
@@ -103,11 +115,11 @@ Explore this section {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/pages/CI_CD.html
+:link: https://KamitaniLab.github.io/Clean_Reproducible_Code/workshop/materials/pages/CI_CD.html
 
 **Continuous Integration**
 ^^^
-```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/static/workshop_graphics/CI_logo.png
+```{image} https://raw.githubusercontent.com/KamitaniLab/Clean_Reproducible_Code/refs/heads/main/workshop/materials/static/workshop_graphics/CI_logo.png
 :height: 100
 ```
 
