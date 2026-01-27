@@ -10,10 +10,10 @@ Often overlooked but tremendously important: clean, tested and reusable code is 
 
 In this short workshop, we will explore the respective basis, including:
 
-- [Code formatting, styling and linting](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_formatting.html)
-- [Code testing](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/code_testing.html)
-- [Continuous integration](https://kamitanilab.github.io/Clean_Reproducible_Code/materials/code_form_test_CI/CI_CD.html)
+- [Code formatting, styling and linting](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_formatting.html)
+- [Code testing](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/code_testing.html)
+- [Continuous integration](https://kamitanilab.github.io/Clean_Tested_Reusable_Code/materials/code_form_test_CI/CI_CD.html)
 
-These topics will be explored based on examples, both provided by the lecturers and brought by the participants. 
+These topics will be explored based on examples, both provided by the lecturers and brought by the participants.
 
-All materials are published as a [JupyterBook](https://KamitaniLab.gitlab.io/Clean_Reproducible_Code). 
+All materials are published as a [JupyterBook](https://kamitanilab.github.io/Clean_Tested_Reusable_Code).
